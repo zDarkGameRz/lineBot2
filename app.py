@@ -30,7 +30,7 @@ def callback():
     elif (userText == 'ใครคือนายก') :
         sendText(user,'นายกประยุทธ์ จันทร์โอชา(บิ๊กตู่)')
     elif (userText == 'ทำความเคารพ') :
-        sendText(user,'รับทราบครับ')
+        sendText(user,'สวัสดีครับท่าน')
     else :
         sendText(user,'????')
     return '',200
